@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme {
+  --color-navy: #034488;
+  --color-brand: #178fd6;
+  --color-mist: #ccdde8;
+  --color-sand: #edece8;
+  --color-cream: #fffcf6;
+}
+body { color: #1e293b; }
+html, body { overflow-x: hidden; }
+mark { background: #fde68a; color: #034488; border-radius: 2px; }
